@@ -1,0 +1,8 @@
+.container {
+  cursor: pointer;
+  width: 300px;
+}
+
+.img {
+  border-radius: 10px;
+}

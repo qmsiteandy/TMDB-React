@@ -1,0 +1,19 @@
+.name {
+  font-weight: 400;
+  font-size: 35px;
+}
+
+.vote_average {
+}
+
+.overview {
+  font-weight: 400;
+  font-size: 20px;
+  height: 120px;
+  overflow: hidden;
+  margin-top: 10px;
+}
+
+.overview:hover {
+  overflow-y: auto;
+}
